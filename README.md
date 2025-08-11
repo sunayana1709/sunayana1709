@@ -21,17 +21,17 @@ When I’m not building things like **chatbots** or **fun apps**, you might find
 ---
 
 ## 🚀 Projects
-- 💬 [**Sentiment Analysis Chatbot**](https://github.com/sunyana1709) – BERT-powered chatbot that detects sentiment.
-- 💱 [**Currency Converter (Tkinter)**](https://github.com/sunyana1709) – Simple GUI app to convert currencies.
+- 💬 [**Sentiment Analysis Chatbot**](https://github.com/Sunayana1709) – BERT-powered chatbot that detects sentiment.
+- 💱 [**Currency Converter (Tkinter)**](https://github.com/Sunayana1709) – Simple GUI app to convert currencies.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunyana1709&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sunayana1709&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyana1709&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunayana1709&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -43,5 +43,8 @@ When I’m not building things like **chatbots** or **fun apps**, you might find
 ---
 
 
----
+
+
+
+
 
