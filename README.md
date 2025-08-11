@@ -28,7 +28,7 @@ When I’m not building things like **chatbots** or **fun apps**, you might find
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunyana1709&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sunyana1709&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyana1709&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -39,6 +39,9 @@ When I’m not building things like **chatbots** or **fun apps**, you might find
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
 
 ---
 
